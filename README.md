@@ -19,9 +19,4 @@ This project is designed to demonstrate the interaction between an HTML form and
 - CSS
 - JavaScript
 
-## Installation
 
-1. Clone this repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/your-project.git
